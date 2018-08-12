@@ -15,4 +15,6 @@ Intro for this project
 
 ## How to Contribute
 
+### Copyright
 
+Git.Training
