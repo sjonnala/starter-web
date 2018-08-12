@@ -15,6 +15,8 @@ Intro for this project
 
 ## How to Contribute
 
+Please fork this repo and issue a PR for review
+
 ### Copyright
 
 Git.Training
